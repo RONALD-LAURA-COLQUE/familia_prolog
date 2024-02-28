@@ -49,4 +49,4 @@ esHijoOHija(mario, alvaro).
 
 esHijoOHija(alejandra, alvaro).
 
-
+#ejercicio1
